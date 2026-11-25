@@ -1,0 +1,3 @@
+SOURCE ARCHIVE STATUS
+This archive contains project source and documentation. It has not been run through Flutter build/test in this environment.
+Install Flutter dependencies, complete the model setup documented in docs/, then run flutter analyze, flutter test, and test on a physical Android device.
